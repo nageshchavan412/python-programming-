@@ -25,10 +25,10 @@ print(a==b)
 print(a!=b)
 
 #dictionary
-student_marks={"sumit":85,"nagesh":90,"anurag":78}
-print(student_marks["anurag"])
+student_marks={"amol":85,"pruthviraj":90,"nagesh":78}
 print(student_marks["nagesh"])
-print(student_marks["sumit"])
+print(student_marks["pruthviraj"])
+print(student_marks["amol"])
 
 #set
 h=set([1,2,3,4])
